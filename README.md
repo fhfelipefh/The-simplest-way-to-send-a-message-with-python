@@ -15,6 +15,7 @@ pip install pyautogui
 <p>
   
 - Place a text in the text file and each line of the file will be typed in the text field selected by you.
+- Wait five seconds.
 - After that enter will be pressed automatically very quickly.
 
 </p>
