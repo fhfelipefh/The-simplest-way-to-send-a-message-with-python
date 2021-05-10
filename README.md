@@ -3,5 +3,5 @@
 </p>
 <hr>
 
- <img src="img\tela.PNG" >
+ <img src="tela.PNG" >
  <hr>
