@@ -11,7 +11,7 @@ pip install pyautogui
 
 ```
 
-# How Does this code Work?
+# How Does this code?
 <p>
   
 - Place a text in the text file and each line of the file will be typed in the text field selected by you.
